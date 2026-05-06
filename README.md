@@ -1,4 +1,4 @@
-git init# AI Budget Inspector
+# AI Budget Inspector
 
 AI Budget Inspector is a powerful tool designed to analyze, validate, and score budget estimates (smeta) provided in Excel format. It leverages machine learning and rule-based logic to uncover anomalies, provide data validation, and offer actionable recommendations to improve budget accuracy.
 
